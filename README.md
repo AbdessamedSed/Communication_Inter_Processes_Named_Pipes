@@ -11,18 +11,18 @@ This project demonstrates inter-process communication using named pipes in C, fe
 
 ## Compilation
 To compile the project, run the following command:
-\`\`\`
+``` bash
 make
-\`\`\`
+```
 
 ## Execution
 To execute the compiled program, run:
-\`\`\`
+``` bash
 ./communication
-\`\`\`
+```
 
 ## Cleanup
 To clean up the compiled files, run:
-\`\`\`
+``` bash
 make clean
-\`\`\`
+```
